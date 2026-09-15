@@ -1,5 +1,5 @@
-# Cells (Conways Game of Life)
-Its simultaion cells like in a video (Conways Game of Life).
-The *rules*: A cell only *lives* if it has *2 or 3 neighbours*. Else it will *die*.
-The whole project, except the last commit, is done with no AI. At the last commit were some logic errors that AI marked, but they were solved by me. 
-<p style=font-color: red>So *no line of code is from AI*.</p>
+#Cells (Conway's Game of Life)
+This is a simulation of cells, similar to Conway's Game of Life.
+The rules: A cell only survives if it has 2 or 3 neighbors. Otherwise, it dies.
+The entire project—except for the final commit—was built without AI. In the final commit, AI was only used to identify a few logic errors, which were then solved by me manually.
+<p style="color: red;">No line of code was written by AI.</p>
